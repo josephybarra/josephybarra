@@ -9,7 +9,10 @@
   
 <h2>:page_facing_up: Certifications</h2>
 
-  
+- [ITIL 4](https://www.google.com)
+- [compTIA A+](https://www.google.com)
+- [compTIA Network+](https://www.google.com)  
+- [compTIA Security+](https://www.google.com)  
 <!--
 **josephybarra/josephybarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
