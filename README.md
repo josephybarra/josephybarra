@@ -9,7 +9,7 @@
   
 <h2>:page_facing_up: Certifications</h2>
 
-- [compTIA Security+](https://www.google.com)  
+- [CompTIA Security+](https://www.google.com)  
 <!--
 **josephybarra/josephybarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
