@@ -1,13 +1,13 @@
-<h1>Hi, I'm Joseph! <br/><a href="https://github.com/josephybarra">Programmer</a>, <a href="https://www.linkedin.com/in/jayybarra/">Cybersecurity Professional</a>
+<h1>Joseph Ybarra<br/><a href="https://github.com/josephybarra">Programmer</a>, <a href="https://www.linkedin.com/in/jayybarra/">Cybersecurity Professional</a>
 
-<h2>:man_technologist: Software Development Projects</h2>
+<h2>Software Development Projects</h2>
   
 
-<h2>:detective: Cybersecurity Projects</h2>
+<h2>Cybersecurity Projects</h2>
 
 - [Active Directory Home Lab](https://www.github.com/josephybarra/laburl)
   
-<h2>:page_facing_up: Certifications</h2>
+<h2>Certifications</h2>
 
 - [CompTIA Security+](https://www.google.com)  
 <!--
